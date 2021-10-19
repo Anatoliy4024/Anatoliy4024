@@ -1,0 +1,3 @@
+ "My project on learning python. Anatoliy"
+ох, блин не заходит оно по правильному...
+ "Doing my first commit ever
